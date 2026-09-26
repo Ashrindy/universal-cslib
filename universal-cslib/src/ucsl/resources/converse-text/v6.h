@@ -47,10 +47,10 @@ namespace ucsl::resources::converse_text::v6 {
         int* unk5;
         int* unk6;
         int* unk7;
-        int* unk8;
+        ucsl::math::Vector4* unk8;
         int* unk9;
         int* unk10;
-        int* unk11;
+        int* decoTechParamIndex;
     };
 
     struct FontLayout {
